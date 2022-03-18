@@ -30,4 +30,17 @@ public class prueba {
 		this.c = c;
 	}
 
+	private String zanahoria;
+
+	public String getZanahoria() {
+		return zanahoria;
+	}
+
+	public void setZanahoria(String zanahoria) {
+		this.zanahoria = zanahoria;
+	}
+	
+	
+	
+	
 }
